@@ -1,0 +1,9 @@
+D:\Coding Projects 2\Chashtag\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Coding Projects 2\Chashtag\Calc\Calc\bin\Debug\Calc.exe
+D:\Coding Projects 2\Chashtag\Calc\Calc\bin\Debug\Calc.pdb
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.exe
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.pdb
+D:\Coding Projects 2\Chashtag\Calc\Calc\obj\Debug\Calc.Calculator.resources
